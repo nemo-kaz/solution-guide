@@ -9,7 +9,7 @@ https://oracle-cloud-friends.github.io/solution-guide/
 GitとDocker(Compose)があればできるはず。
 
 ```
-# 事前準備
+# 事前準備です
 git pull <this-repository>
 docker-compose build
 
